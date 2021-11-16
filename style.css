@@ -13,3 +13,7 @@
 #nav-logo:hover{
     margin-top: 0;
 }
+#home-nav{
+    background-image: url("images/home.png");
+    display: inline-block;
+}
