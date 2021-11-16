@@ -1,3 +1,3 @@
-# jibb-ler.github.io
+# jibb-ler.github.io - Plane Divison
 
-Yea, so this is my website. I made this as a fun project. Hope you like it.
+Pwanes r kool
