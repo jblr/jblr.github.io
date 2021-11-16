@@ -7,8 +7,6 @@ body{
     /*overflow-x: hidden;*/
 }
 #nav-home{
-    width: 18vw;
-    height: 12vh;
     background-image: url("images/home.png");
     background-size: contain;
     display: inline-block;
