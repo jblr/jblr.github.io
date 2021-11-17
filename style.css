@@ -8,7 +8,7 @@ body{
 #nav-home{
     background-image: url("images/home.png");
     width: 200px;
-    height: 100px;
+    height: 50px;
     background-size: contain;
     display: inline-block;
 }
