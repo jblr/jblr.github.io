@@ -12,3 +12,10 @@ body{
     list-style: none;
     text-align: center;
 }
+html {
+   min-height: 100%;
+   background-image: url(images/sky.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+  }
