@@ -6,10 +6,6 @@ body{
     color: #ffffff;
 }
 #nav-home{
-    background-image: url("images/home.png");
-    width: 200px;
-    height: 50px;
-    background-size: contain;
     display: inline-block;
 }
 #nav-bar {
