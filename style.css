@@ -17,3 +17,10 @@
     background-image: url("images/home.png");
     display: inline-block;
 }
+html {
+   min-height: 100%;
+   background-image: url(images/sky.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+  }
